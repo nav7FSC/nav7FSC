@@ -28,11 +28,11 @@
 ### Education
 
 **Farmingdale State College**
-- Bachelor of Science in Computer Science (Expected: May 2025)  
+- Bachelor of Science in Computer Science (Expected: 2025)  
 - Courses: Data Structures & Algorithms, Software Engineering, Operating Systems, Advanced Programming  
 
 **Farmingdale State College**  
-- Associate of Arts in Liberal Arts and Sciences (Graduated: December 2022)
+- Associate of Arts in Liberal Arts and Sciences (Graduated: 2022)
 
 ### Technical Skills
 
