@@ -4,7 +4,7 @@
 
 🌱 **I’m currently learning** advanced software development techniques and technologies like JavaFX, Google Firebase, and Scene Builder for robust, scalable applications. I'm also deepening my knowledge in data structures, algorithms, and cloud technologies.
 
-💞️ **I’m looking to collaborate on** open-source projects involving cross-platform apps, user interface improvements, or backend integrations. I am also open to freelance opportunities in web and mobile development.
+ **I’m looking to collaborate on** open-source projects involving cross-platform apps, user interface improvements, or backend integrations. I am also open to freelance opportunities in web and mobile development.
 
 📫 **How to reach me**: 
 - Email: navsingh7733@gmail.com 
